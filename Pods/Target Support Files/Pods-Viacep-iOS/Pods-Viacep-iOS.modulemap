@@ -1,0 +1,6 @@
+module Pods_Viacep_iOS {
+  umbrella header "Pods-Viacep-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
